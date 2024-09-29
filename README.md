@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript,NextJS**
 
-- 👨‍💻 All of my projects are available at [https://sailesh-kumar-29j02.netlify.app/](https://sailesh-kumar-29j02.netlify.app/)
+- 👨‍💻 Here's my portfolio [https://sailesh-kumar-29j02.netlify.app/](https://sailesh-kumar-29j02.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
